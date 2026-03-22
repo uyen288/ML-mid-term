@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/trainer1.jpg" width="300">
+      <img src="images/trainer1.jpg" width="600">
     </td>
   </tr>
 </table>
@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/trainer2.jpg" width="300">
+      <img src="images/trainer2.jpg" width="600">
     </td>
   </tr>
 </table>
@@ -31,7 +31,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/predictor.jpg" width="300">
+      <img src="images/predictor.jpg" width="600">
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/confusion-matrix.jpg" width="300">
+      <img src="images/confusion-matrix.jpg" width="600">
     </td>
   </tr>
 </table>
