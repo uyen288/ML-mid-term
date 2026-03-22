@@ -1,6 +1,6 @@
-# Giao diện chương trình:
+## Giao diện chương trình:
 
-# App huấn luyện mô hình ANN nhận dạng chó mèo, có các chức năng:
+## App huấn luyện mô hình ANN nhận dạng chó mèo, có các chức năng:
 - Tải tệp train, test từ máy.
 - Huấn luyện mô hình.
 - Kiểm thử hiệu năng (Accuracy, Precision, Recall, F1,...)
@@ -22,7 +22,7 @@
   </tr>
 </table>
 
-# App nhận dạng chó mèo, có các chức năng:
+## App nhận dạng chó mèo, có các chức năng:
 - Nạp file mô hình.
 - Dự đoán chó/mèo dựa trên 1 ảnh bất kỳ tải từ máy.
 - Dự đoán và phân loại chó/mèo dựa trên folder tải từ máy.
@@ -36,7 +36,7 @@
   </tr>
 </table>
 
-# Ma trận nhầm lẫn:
+## Ma trận nhầm lẫn:
 
 <table>
   <tr>
