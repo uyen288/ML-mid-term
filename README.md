@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/confusion-matrix.png" width="600">
+      <img src="images/confusion-matrix.png" width="800">
     </td>
   </tr>
 </table>
